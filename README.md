@@ -8,8 +8,7 @@
 | 18/0113097 | Daniel Coimbra dos Santos |  
 
 ## Descrição do projeto
-Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Ordenação
-
+Resolução de questões do LeetCode para demonstrar na prática os conhecimentos adquiridos acerca do conteúdo Algoritmos de Busca
 ### Questão de Dificuldade Difícil:
 #### 749. Contain Virus
 Hard
