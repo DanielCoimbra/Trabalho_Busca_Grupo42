@@ -1,6 +1,6 @@
 # Trabalho_Busca_Grupo42
 
-### Trabalho 02 - 27/11/2025
+### Trabalho 01 - 27/11/2025
 
 ## Aluno 
 | Matrícula | Nome |  
