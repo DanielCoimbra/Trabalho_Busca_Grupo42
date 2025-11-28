@@ -61,10 +61,10 @@ isInfected[i][j] is either 0 or 1.
 There is always a contiguous viral region throughout the described process that will infect strictly more uncontaminated squares in the next round.
 
 ## Capturas de tela
-<p>Pancake Sorting - Questão e Código</p><img src="imgs/contain_virus.PNG"><br>
+<p>Pancake Sorting - Questão e Código</p><img src="imgs/contain_virus.png"><br>
 <br>
-<p>Runtime Metrics</p><img src="imgs/runtime_contain_virus.PNG"><br>
-<p>Runtime Metrics</p><img src="imgs/memory_contain_virus.PNG"><br>
+<p>Runtime Metrics</p><img src="imgs/runtime_contain_virus.png"><br>
+<p>Runtime Metrics</p><img src="imgs/memory_contain_virus.png"><br>
 
 ## Conclusões
 
